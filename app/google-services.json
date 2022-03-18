@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230819297192",
+    "project_id": "smartrecycle-d4b3f",
+    "storage_bucket": "smartrecycle-d4b3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230819297192:android:88f6a3fae85ccf966e0f9d",
+        "android_client_info": {
+          "package_name": "com.example.smart_recycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230819297192-l7tebcsbpjc9mh134rparvsud2ulr8ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGwy81f-93h4HnI_oDiu1L-bkppyPKCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230819297192-l7tebcsbpjc9mh134rparvsud2ulr8ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
