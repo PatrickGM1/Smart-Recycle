@@ -1,2 +1,2 @@
 # smart-recycle
-Our submission for UniHack Hackathon.
+  Smart Recycling is a project designed with the purpose of encouraging people to implement recycling as part of their daily life. Our vision of this project would be the promotion of recycling through an affiliation-based programme. After using smart recycling bins, users would get points that can be later turned into coupons that are facilitated by eco-friendly companies. We thought that this would be a good way to firstly promote recycling and secondly make the affiliate companies have a “green” reputation.
